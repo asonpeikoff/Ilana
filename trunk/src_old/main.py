@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #
-# Copyright (C) 2018 Jason D. Miller.
+# Copyright (C) 2018 Ason Peikoff.
 # Forked from Google AIY and GassistPi
 #
 # Licensed under the Apache License, Version 2.0 (the "License");

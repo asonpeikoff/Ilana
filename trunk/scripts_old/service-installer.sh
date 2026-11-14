@@ -2,7 +2,7 @@
 #
 # Install systemd service files for running on startup.
 #
-# Copyright 2018 Jason D. Miller.
+# Copyright 2018 Ason Peikoff.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
